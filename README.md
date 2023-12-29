@@ -1,4 +1,4 @@
-# ![https://linkedin.com/miguelmonzon-inf](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/6_56.png?token=GHSAT0AAAAAACMD3BPHEMXWHVUCQL4AKTF4ZMO6SQQ) Hola, mi nombre es Miguel Monzón 👋
+# ![https://linkedin.com/miguelmonzon-inf](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/6_56.png) Hola, mi nombre es Miguel Monzón 👋
 ### Desarrollador full-stack
 
 ![https://github.com/michelanyelo] INCLUIR BANNER
