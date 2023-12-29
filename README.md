@@ -1,7 +1,7 @@
 # ![https://linkedin.com/miguelmonzon-inf](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/6_56.png) Hola, mi nombre es Miguel Monzón 👋
 ### Desarrollador full-stack
 
-![https://github.com/michelanyelo](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/banner-github.png)INCLUIR BANNER
+![https://github.com/michelanyelo](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/banner-github.png)
 
 Soy Técnico en Informática, con más de cuatro años de experiencia, especializado en Desarrollo de Software Profesional.
 
