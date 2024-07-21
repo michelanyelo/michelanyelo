@@ -2,7 +2,7 @@
 
 <!-- ![GitHub Banner](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/banner-github.png) -->
 
-<img src="https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/banner-github.png" alt="GitHub Banner" style="border-radius: 2rem;">
+<img src="https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/banner-github.png" alt="GitHub Banner" style="border: 1px solid black; border-radius: 2rem;">
 
 Soy Técnico en Informática, con más de cuatro años de experiencia, especializado en Desarrollo de Software Profesional.
 
