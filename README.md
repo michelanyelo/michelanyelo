@@ -1,8 +1,6 @@
 # ![https://linkedin.com/miguelmonzon-inf](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/6_56.png) ¡Hola Mundo! Mi nombre es Miguel Monzón 👋
 
-<!-- ![GitHub Banner](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/banner-github.png) -->
-
-<img src="https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/banner-github.png" alt="GitHub Banner" style="border: 1px solid black; border-radius: 2rem;">
+![banner](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/banner-github.png)
 
 Soy Técnico en Informática, con más de cuatro años de experiencia, especializado en Desarrollo de Software Profesional.
 
