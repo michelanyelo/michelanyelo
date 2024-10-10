@@ -10,7 +10,7 @@ Desde el año 2020, formo parte del equipo de la Municipalidad de Quillota, dese
 
 En la actualidad, continúo activamente en mi rol actual, al mismo tiempo que avanzo en mi educación continua para obtener el título de Ingeniero en Informática, con especialización en análisis de datos. Asimismo, busco fortalecer mis habilidades mediante certificaciones en desarrollo y análisis de datos en plataformas reconocidas como edX (Harvard), freeCodeCamp, Coursera, Udemy, DesafioLatam, entre otras.
 
-#Contacto
+# Contacto
 ```javascript
 links {
     gmail: "miguelmonzon.inf",
