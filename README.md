@@ -2,10 +2,19 @@
 
 ![banner](https://raw.githubusercontent.com/michelanyelo/profile_fotos/main/banner-github.png)
 
-Soy Chileno, nacido y criado en la ciudad de Quillota, comuna de la V región de Valparíso.
+Soy Chileno, nacido y criado en la ciudad de Quillota, comuna de la V región de Valparaíso.
 
 Egresado y Titulado de Técnico en Informática, con más de cuatro años de experiencia, especializado en Desarrollo de Software Profesional.
 
 Desde el año 2020, formo parte del equipo de la Municipalidad de Quillota, desempeñándome como Webmaster del sitio municipal. Inicialmente, lideré la tarea de rediseñar la página [**MuniQuillota**](https://quillota.cl/municipalidad) y posteriormente he desarrollado diversas plataformas adaptadas a las necesidades emergentes. Entre ellas, destaca la creación de sistemas para el registro de inventario de insumos y un CRUD para gestionar computadoras con características específicas.
 
 En la actualidad, continúo activamente en mi rol actual, al mismo tiempo que avanzo en mi educación continua para obtener el título de Ingeniero en Informática, con especialización en análisis de datos. Asimismo, busco fortalecer mis habilidades mediante certificaciones en desarrollo y análisis de datos en plataformas reconocidas como edX (Harvard), freeCodeCamp, Coursera, Udemy, DesafioLatam, entre otras.
+
+#Contacto
+```javascript
+links {
+    gmail: "miguelmonzon.inf",
+    instagram: "@_michelanyelo",
+    linkedin: "/miguelmonzon-inf"
+}
+```
