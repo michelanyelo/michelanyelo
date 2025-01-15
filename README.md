@@ -8,7 +8,7 @@ Egresado y Titulado de Técnico en Informática, con más de cuatro años de exp
 
 Cuento con más de 4 años de experiencia en el diseño y desarrollo de soluciones tecnológicas para el sector público, enfocado en crear plataformas eficientes que optimicen la experiencia del usuario y mejoren procesos internos. Me caracterizo por una comunicación efectiva, adaptabilidad y trabajo en equipo, lo que me permite entender y responder a las necesidades del cliente y colaborar exitosamente en entornos multidisciplinarios. Mi objetivo es seguir especializándome en desarrollo tanto front-end como back-end, aplicando conocimientos en herramientas como PHP y frameworks modernos de JavaScript para contribuir a proyectos innovadores que impulsen la transformación digital y la accesibilidad.
 
-En la actualidad, continúo activamente en mi rol actual, al mismo tiempo que avanzo en mi educación continua para obtener el título de Ingeniero en Informática, con especialización en análisis de datos. Asimismo, busco fortalecer mis habilidades mediante certificaciones en desarrollo y análisis de datos en plataformas reconocidas como edX (Harvard), freeCodeCamp, Coursera, Udemy, DesafioLatam, entre otras.
+En la actualidad, avanzo en mi educación buscando fortalecer mis habilidades mediante certificaciones en desarrollo en plataformas reconocidas como edX (Harvard), freeCodeCamp, Coursera, Udemy, DesafioLatam, entre otras.
 
 ## Mis habilidades
 - Desarrollo Frontend
